@@ -1,0 +1,13 @@
+.header-text {
+  display: flex;
+  justify-content: space-between;
+
+  .header-text-large {
+    font-size: large;
+  }
+
+  .header-link {
+    text-decoration: underline;
+    text-align: right;
+  }
+}
